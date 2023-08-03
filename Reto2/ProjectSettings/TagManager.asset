@@ -5,6 +5,13 @@ TagManager:
   serializedVersion: 2
   tags:
   - Suelo
+  - Morir
+  - Jugador
+  - Golpe
+  - Plataforma
+  - Fruta
+  - CheckPoint
+  - FrutaGrande
   layers:
   - Default
   - TransparentFX
